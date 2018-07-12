@@ -20,7 +20,6 @@ Then, install the project dependencies and setup the services:
 
 ``` shell
 cd ~/AIY-projects-python
-scripts/install-deps.sh
 sudo scripts/install-services.sh
 ```
 
